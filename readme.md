@@ -59,6 +59,18 @@ charlie = "super-admin"
 
 4. Certain pages or features may be restricted based on your user role. 
 
+### Normal User 
+Alice is a normal user, she can only see the normal user pages:
+![alice_image](./images/normal-user.png)
+
+### Admin User
+Bob is an admin user, he can see all the pages, but can't access the super-admin page:
+![admin_image](./images/admin.png)
+
+### Super Admin User
+Charlie is a super admin user, he can see and access all the pages:
+![super_admin_image](./images/super-admin.png)
+
 ## Reference
 - https://docs.streamlit.io/develop/tutorials/multipage/st.page_link-nav
 - https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso
