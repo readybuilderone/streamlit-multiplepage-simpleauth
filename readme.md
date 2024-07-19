@@ -59,6 +59,10 @@ charlie = "super-admin"
 
 4. Certain pages or features may be restricted based on your user role. 
 
+## Reference
+- https://docs.streamlit.io/develop/tutorials/multipage/st.page_link-nav
+- https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
